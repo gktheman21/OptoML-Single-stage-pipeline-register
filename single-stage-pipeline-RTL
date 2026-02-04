@@ -1,4 +1,4 @@
-module ssplr#(
+module ssplr #(
     parameter int DATA_WIDTH = 32
 ) (
     input  logic                  clk,
